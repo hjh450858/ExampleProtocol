@@ -16,6 +16,7 @@
 		D2E59278253DCDF2002618EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2E59276253DCDF2002618EB /* LaunchScreen.storyboard */; };
 		D2E59283253DCDF2002618EB /* ExampleProtocolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E59282253DCDF2002618EB /* ExampleProtocolTests.swift */; };
 		D2E5928E253DCDF2002618EB /* ExampleProtocolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E5928D253DCDF2002618EB /* ExampleProtocolUITests.swift */; };
+		D2E5929F253DCF93002618EB /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E5929E253DCF93002618EB /* DataViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D2E59289253DCDF2002618EB /* ExampleProtocolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExampleProtocolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2E5928D253DCDF2002618EB /* ExampleProtocolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleProtocolUITests.swift; sourceTree = "<group>"; };
 		D2E5928F253DCDF2002618EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2E5929E253DCF93002618EB /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D2E59268253DCDF1002618EB /* AppDelegate.swift */,
 				D2E5926A253DCDF1002618EB /* SceneDelegate.swift */,
 				D2E5926C253DCDF1002618EB /* ViewController.swift */,
+				D2E5929E253DCF93002618EB /* DataViewController.swift */,
 				D2E5926E253DCDF1002618EB /* Main.storyboard */,
 				D2E59274253DCDF2002618EB /* Assets.xcassets */,
 				D2E59276253DCDF2002618EB /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				D2E5926D253DCDF1002618EB /* ViewController.swift in Sources */,
 				D2E59269253DCDF1002618EB /* AppDelegate.swift in Sources */,
+				D2E5929F253DCF93002618EB /* DataViewController.swift in Sources */,
 				D2E59273253DCDF1002618EB /* ExampleProtocol.xcdatamodeld in Sources */,
 				D2E5926B253DCDF1002618EB /* SceneDelegate.swift in Sources */,
 			);
